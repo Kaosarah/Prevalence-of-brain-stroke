@@ -6,8 +6,8 @@ A stroke is a medical condition in which there is brain cell's death due to poor
 
 ## Data collection and transformation
 
-The data used for this analysis was gotten from Kaggle, here is the link to the dataset 
-https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset.
+The data used for this analysis was gotten from Kaggle, [here](
+https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset) is the link to the dataset.
 
 The file contains 11 columns and 4981 rows, there was a description on the web page for each of the columns.
 
